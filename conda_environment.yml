@@ -26,7 +26,7 @@ dependencies:
     - pandas
 #    - pytables
     - requests
-    - suds-jurko
+    - suds
 
     # Specifically for building Sphinx docs
     - python-dateutil
